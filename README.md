@@ -100,10 +100,19 @@ encrypt: true // Dependendo da configuração do seu servidor SQL Server
 3. Acesse o Jogo: Abra o navegador e acesse http://localhost:8080 para iniciar o jogo.
 
  # 🎴Interface
-
- ![image](https://github.com/GabrielFillip/Jogo-Web-com-banco-de-dados-Azure/assets/142547884/e5e4d2a2-2eec-4363-920c-f45e369ea802)
-![image](https://github.com/GabrielFillip/Jogo-Web-com-banco-de-dados-Azure/assets/142547884/f1033ed7-716a-4410-af22-16f396aed3f2)
+ 
+### Tela de login:
 ![image](https://github.com/GabrielFillip/Jogo-Web-com-banco-de-dados-Azure/assets/142547884/bcf26a56-4f1d-4d00-8f83-6e6887e2a47c)
+
+<hr>
+
+### <p style="color: rgb(24, 168, 182);"> Tela principal do game:</p>
+![image](https://github.com/GabrielFillip/Jogo-Web-com-banco-de-dados-Azure/assets/142547884/e5e4d2a2-2eec-4363-920c-f45e369ea802)
+
+<hr>
+
+### DashBoard:
+![image](https://github.com/GabrielFillip/Jogo-Web-com-banco-de-dados-Azure/assets/142547884/f1033ed7-716a-4410-af22-16f396aed3f2)
 
 
 
