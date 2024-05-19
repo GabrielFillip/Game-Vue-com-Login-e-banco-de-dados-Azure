@@ -12,6 +12,8 @@ Jogo de turno acessado pela WEB conectado com banco de dados relacional AZURE. O
 
 <hr>
 
+LINK: https://jogo-web-com-banco-de-dados-azure.onrender.com/login.html
+
 ## Funcionalidades: 
 
 - Cadastro e Login: Sistema completo de cadastro e login para credenciar os usuario e abrir o Jogo
