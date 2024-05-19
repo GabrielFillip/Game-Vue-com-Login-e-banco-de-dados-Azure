@@ -4,7 +4,7 @@
 #### Jogo de turno acessado pela WEB conectado com banco de dados relacional AZURE. O jogo é baseado em um RPG de turno, especificamente uma batalha entre Héroi e Vilão, o heroi tem possibilidades de ações diferentes utilizando os botões presentes no card.
 
 
-Link: <a href="https://jogo-web-com-banco-de-dados-azure.onrender.com/login.html">http</a>
+Link: <a href="https://jogo-web-com-banco-de-dados-azure.onrender.com/login.html">https://jogo-web-com-banco-de-dados-azure.onrender.com</a>
 <hr>
 
 ## Ações / metodos 📝:
