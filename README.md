@@ -1,3 +1,4 @@
+# Jogo-Web-com-banco-de-dados-Azure
 
 #### Jogo de turno acessado pela WEB conectado com banco de dados relacional AZURE. O jogo é baseado em um RPG de turno, especificamente uma batalha entre Héroi e Vilão, o heroi tem possibilidades de ações diferentes utilizando os botões presentes no card.
 
@@ -121,7 +122,8 @@ encrypt: true // Dependendo da configuração do seu servidor SQL Server
 ![image](https://github.com/GabrielFillip/Jogo-Web-com-banco-de-dados-Azure/assets/142547884/f1033ed7-716a-4410-af22-16f396aed3f2)
 
 
-
+# Licença
+Este projeto é distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](https://github.com/ellendias01/Prova-Marcio/blob/main/LICENSE) para obter mais detalhes.
 
 
   
