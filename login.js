@@ -21,7 +21,7 @@ const Login = {
     methods: {
         async fazerLogin() {
             try {
-                const response = await fetch('http://localhost:3000/login', {
+                const response = await fetch('https://jogo-web-com-banco-de-dados-azure.onrender.com/login', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json'
@@ -81,7 +81,7 @@ const Cadastro = {
                 return;
             }
             try {
-                const response = await fetch('http://localhost:3000/register', {
+                const response = await fetch('https://jogo-web-com-banco-de-dados-azure.onrender.com/register', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json'
