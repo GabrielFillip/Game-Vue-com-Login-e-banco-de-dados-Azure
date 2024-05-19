@@ -1,7 +1,10 @@
 const Login = {
     template: `
         <div>
+                <div class="icon-login-cadastro">
                     <h2 class="h2-login">Login</h2>
+                    <img class="icon-pokebola" src="/img/Iconpokemon.png">
+                </div>
                     <input class="inputs" type="text" placeholder="   Nome de usuário" v-model="nome"><br>
                     <input class="inputs" type="password" placeholder="   Senha" v-model="senha"><br>
                     <button class="button" @click="fazerLogin">Entrar</button><br>
@@ -52,8 +55,10 @@ const Login = {
 const Cadastro = {
     template: `
         <div>
-                <img src="/img/arena.png" width="100%" height="100%">
+            <div class="icon-login-cadastro">
                     <h2 class="h2-cadastro">Cadastre-se</h2>
+                    <img class="icon-pokebola" src="/img/Iconpokemon.png">
+            </div>
                     <input class="inputs" type="text" placeholder="   Nome de usuário" v-model="nome"><br>
                     <input class="inputs" type="email" placeholder="   Email" v-model="email"><br>
                     <input class="inputs" type="password" placeholder="   Senha" v-model="senha"><br>
@@ -61,8 +66,6 @@ const Cadastro = {
                     <button class="button" @click="criarConta">Cadastrar</button><br>
                     <p class="conta">Já tem uma conta? <a class="conta" href="#" @click="alterarLoginCadastro">Login</a></p>
                     <div class="flex-button">
-                        <input class="checkbox" type="checkbox" name="checkbox1" value="value1">
-                        <p>Lembre de mim</p>
             </div>
         </div>
     `,

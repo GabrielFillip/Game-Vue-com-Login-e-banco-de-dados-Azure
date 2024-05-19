@@ -96,7 +96,7 @@ html, body {
 }
 
 .h2-login {
-    margin: 5% 0px 15% 34.5%;
+    margin: 5% 0px 15% 0%;
     font-size: 2vw;
 }
 
@@ -134,4 +134,17 @@ html, body {
     height: 27vw;
     border-radius: 20px;
     margin: 0px 5% 0px 0px;
+}
+
+.icon-login-cadastro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+}
+
+.icon-pokebola{
+    margin: 0px 0px 10% 5%;
 }

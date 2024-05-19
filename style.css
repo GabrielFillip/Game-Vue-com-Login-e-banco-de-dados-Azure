@@ -335,11 +335,14 @@ li {
     margin: 0px 5px 0px 5px;
     border: none;
     border-radius: 5px;
-    background-color: rgb(153, 0, 255);
-    color: rgb(255, 255, 255);
+    background-color: rgb(226, 211, 211);
+    color: rgb(0, 0, 0);
     cursor: pointer;
     transition: background-color 0,7s, transform 0.2s;
-
+    width: 5vw;
+    height: 3vw;
+    font-weight: bold;
+    font-family: "Roboto";
 }
 
 .imglogin{
