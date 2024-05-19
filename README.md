@@ -12,7 +12,7 @@ Jogo de turno acessado pela WEB conectado com banco de dados relacional AZURE. O
 
 <hr>
 
-<a href="https://jogo-web-com-banco-de-dados-azure.onrender.com/login.html">Clique aqui</a>
+Link: <a href="https://jogo-web-com-banco-de-dados-azure.onrender.com/login.html">https://jogo-web-com-banco-de-dados-azure.onrender.com</a>
 
 ## Funcionalidades: 
 
