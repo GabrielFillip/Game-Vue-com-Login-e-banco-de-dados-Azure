@@ -1,6 +1,8 @@
-# Jogo-Web-com-banco-de-dados-Azure
-Jogo de turno acessado pela WEB conectado com banco de dados relacional AZURE. O jogo é baseado em um RPG de turno, especificamente uma batalha entre Héroi e Vilão, o heroi tem possibilidades de ações diferentes utilizando os botões presentes no card.
 
+#### Jogo de turno acessado pela WEB conectado com banco de dados relacional AZURE. O jogo é baseado em um RPG de turno, especificamente uma batalha entre Héroi e Vilão, o heroi tem possibilidades de ações diferentes utilizando os botões presentes no card.
+
+
+Link: <a href="https://jogo-web-com-banco-de-dados-azure.onrender.com/login.html">https://jogo-web-com-banco-de-dados-azure.onrender.com</a>
 <hr>
 
 ## Ações / metodos 📝:
@@ -12,7 +14,6 @@ Jogo de turno acessado pela WEB conectado com banco de dados relacional AZURE. O
 
 <hr>
 
-Link: <a href="https://jogo-web-com-banco-de-dados-azure.onrender.com/login.html">https://jogo-web-com-banco-de-dados-azure.onrender.com</a>
 
 ## Funcionalidades: 
 
@@ -104,12 +105,15 @@ encrypt: true // Dependendo da configuração do seu servidor SQL Server
  # 🎴Interface
  
 ### Tela de login:
-![image](https://github.com/GabrielFillip/Jogo-Web-com-banco-de-dados-Azure/assets/142547884/bcf26a56-4f1d-4d00-8f83-6e6887e2a47c)
 
 <hr>
+###Tela de Login:
 
-### <p style="color: rgb(24, 168, 182);"> Tela principal do game:</p>
-![image](https://github.com/GabrielFillip/Jogo-Web-com-banco-de-dados-Azure/assets/142547884/e5e4d2a2-2eec-4363-920c-f45e369ea802)
+![image](https://github.com/GabrielFillip/Jogo-Web-com-banco-de-dados-Azure/assets/142547884/6357fbdf-7f41-474a-86b4-3c2bd125c986)
+
+### Tela principal do game:
+
+![image](https://github.com/GabrielFillip/Jogo-Web-com-banco-de-dados-Azure/assets/142547884/3d5ae9c3-9fc2-465c-b0ba-3fd589cca402)
 
 <hr>
 
