@@ -109,7 +109,8 @@ encrypt: true // Dependendo da configuração do seu servidor SQL Server
 ### Tela de login:
 
 <hr>
-### Tela de Login:
+
+### Tela de login:
 
 ![image](https://github.com/GabrielFillip/Jogo-Web-com-banco-de-dados-Azure/assets/142547884/6357fbdf-7f41-474a-86b4-3c2bd125c986)
 
